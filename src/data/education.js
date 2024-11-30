@@ -1,16 +1,9 @@
 export const educationData = [
     {
-      degree: "Master of Science in Computer Science",
-      institution: "University Name",
-      location: "City, Country",
-      duration: "2020 - 2022",
-      description: "Specialized in Artificial Intelligence and Machine Learning. Completed thesis on...",
-    },
-    {
-      degree: "Bachelor of Engineering in Computer Science",
-      institution: "University Name",
-      location: "City, Country",
-      duration: "2016 - 2020",
-      description: "Graduated with First Class Honours. Key courses included...",
+      degree: "Bachelor of Science in Computer Engineering",
+      institution: "University of Washington",
+      location: "Seattle, WA",
+      duration: "2023 - 2026",
+      description: "3.83/4.0 GPA | Relevant Coursework: Hardware Software Interface, Discrete Math I, Intro to Digital Design, Data Structures and Paralellism, Intro to Signal Conditioning, Linear Algebra",
     },
   ];

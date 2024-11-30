@@ -7,13 +7,13 @@ const About = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div className="space-y-4">
           <h1 className="text-4xl font-bold text-gray-900">
-            Hi, I'm Ethan Tieu 👋
+            Hi, I'm Ethan 👋
           </h1>
           <h2 className="text-2xl text-gray-600">
-            Computer Engineering Student and SWE Intern
+            Computer Engineering @ UW and SWE Intern @ ToolBelt
           </h2>
           <p className="text-gray-600 leading-relaxed">
-            I'm a passionate software developer with expertise in building web applications
+            I'm a passionate software engineer with expertise in building web applications
             using modern technologies. I love creating elegant solutions to complex problems
             and am always eager to learn new technologies.
           </p>
