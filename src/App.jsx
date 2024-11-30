@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './components/Header';
-import About from './components/About';
-import Education from './components/Education';
-import Experience from './components/Experience';
-import Projects from './components/Projects';
-import Skills from './components/Skills';
-import Footer from './components/Footer';
+import Header from './components/Header.jsx';
+import About from './components/About.jsx';
+import Education from './components/Education.jsx';
+import Experience from './components/Experience.jsx';
+import Projects from './components/Projects.jsx';
+import Skills from './components/Skills.jsx';
+import Footer from './components/Footer.jsx';
 
 function App() {
   return (
