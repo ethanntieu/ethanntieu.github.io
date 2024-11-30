@@ -29,6 +29,7 @@ const Education = () => {
               </div>
             </div>
             <p className="mt-4 text-gray-600">{edu.description}</p>
+            <p className="mt-4 text-gray-600">{edu.classes}</p>
           </div>
         ))}
       </div>
