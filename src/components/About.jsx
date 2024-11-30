@@ -7,10 +7,10 @@ const About = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div className="space-y-4">
           <h1 className="text-4xl font-bold text-gray-900">
-            Hi, I'm [Your Name] 👋
+            Hi, I'm Ethan Tieu 👋
           </h1>
           <h2 className="text-2xl text-gray-600">
-            Software Developer
+            Computer Engineering Student and SWE Intern
           </h2>
           <p className="text-gray-600 leading-relaxed">
             I'm a passionate software developer with expertise in building web applications
@@ -19,7 +19,7 @@ const About = () => {
           </p>
           <div className="flex space-x-4">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/ethanntieu"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 transition-colors"
@@ -27,7 +27,7 @@ const About = () => {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/ethantieu"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 transition-colors"
@@ -35,7 +35,7 @@ const About = () => {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:ethan.tieu@gmail.com"
               className="text-gray-600 hover:text-gray-900 transition-colors"
             >
               <Mail className="w-6 h-6" />
