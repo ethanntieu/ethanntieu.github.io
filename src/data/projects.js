@@ -5,7 +5,7 @@ export const projectsData = [
       technologies: ["Go", "MongoDB", "Python", "scikit-learn", "HTML/CSS", "Javascript"], 
       github: "https://github.com/adam-0001/inpuri",
       //demo: "https://project1-demo.com",
-      image: "/api/placeholder/400/300",
+      image: "/assets/images/inpuri.png",
     },
     {
       title: "Chess Engine",
@@ -13,6 +13,6 @@ export const projectsData = [
       technologies: ["Python", "Pygame", "Minimax Algorithm"],
       github: "https://github.com/ethanntieu/Chess_Minimax",
       //demo: "https://project2-demo.com",
-      image: "/api/placeholder/400/300",
+      image: "/assets/images/chess_icons.png",
     },
   ];

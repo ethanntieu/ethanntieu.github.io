@@ -13,9 +13,11 @@ const About = () => {
             Computer Engineering @ UW and SWE Intern @ ToolBelt
           </h2>
           <p className="text-gray-600 leading-relaxed">
-            I'm a passionate software engineer with expertise in building web applications
-            using modern technologies. I love creating elegant solutions to complex problems
-            and am always eager to learn new technologies.
+            I'm a passionate computer engineering student and software engineer with expertise 
+            in building web applications using modern technologies. I love creating elegant 
+            solutions to complex problems and am always eager to learn new technologies. I am
+            also an avid photographer, tennis player, and movie/TV enthusiast. Feel free to 
+            visit any of my socials linked below.
           </p>
           <div className="flex space-x-4">
             <a
