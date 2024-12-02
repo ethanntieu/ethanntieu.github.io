@@ -13,6 +13,6 @@ export const projectsData = [
       technologies: ["Python", "Pygame", "Minimax Algorithm"],
       github: "https://github.com/ethanntieu/Chess_Minimax",
       //demo: "https://project2-demo.com",
-      image: "/assets/images/chess_icons.png",
+      image: "/assets/images/chess_icons.jpg",
     },
   ];
