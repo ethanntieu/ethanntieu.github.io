@@ -1,18 +1,18 @@
 export const projectsData = [
     {
-      title: "E-commerce Platform",
-      description: "A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, product management, shopping cart, and payment integration.",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      github: "https://github.com/yourusername/project1",
-      demo: "https://project1-demo.com",
+      title: "Inpuri Anti-Bot",
+      description: "A captcha-less security solution that identifies legitimate users using sensor data and machine learning. Analyzes client-side inputs like mouse movements and browser characteristics. Built with Go, MongoDB, Python, and scikit-learn.",
+      technologies: ["Go", "MongoDB", "Python", "scikit-learn", "HTML/CSS", "Javascript"], 
+      github: "https://github.com/adam-0001/inpuri",
+      //demo: "https://project1-demo.com",
       image: "/api/placeholder/400/300",
     },
     {
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates. Includes features like task assignment, progress tracking, and team collaboration.",
-      technologies: ["React", "Firebase", "Tailwind CSS"],
-      github: "https://github.com/yourusername/project2",
-      demo: "https://project2-demo.com",
+      title: "Chess Engine",
+      description: "Created the chess board, pieces, and piece movement using Pygame. Chess engine programmed utilizing the minimax algorithm. Capable of looking 3 moves ahead.",
+      technologies: ["Python", "Pygame", "Minimax Algorithm"],
+      github: "https://github.com/ethanntieu/Chess_Minimax",
+      //demo: "https://project2-demo.com",
       image: "/api/placeholder/400/300",
     },
   ];
